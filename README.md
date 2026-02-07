@@ -3,6 +3,7 @@
 This project applies **machine learning classification** to predict the outcomes of **Rocket League Championship Series (RLCS)** matches. Using real-world competitive match data, we train and evaluate models that classify whether a team will win or lose based on match statistics and engineered features.
 
 ---
+<img width="853" height="333" alt="Rocket League ML Demo pic" src="https://github.com/user-attachments/assets/2ee9ce25-ea8c-4897-8f18-677b0dfee5e2" />
 
 ## 📌 Project Overview
 
